@@ -1,6 +1,6 @@
 function Home(){
 
-    return <h1> Testando commit de volta ao tempo </h1>
+    return <h1>Testando commit </h1>
 
 }
 export default Home;
